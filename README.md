@@ -41,9 +41,10 @@ implementation details, and experimental data. See [Software overview](docs/SOFT
 ![Anonymised recording workflow](assets/anonymized-recording-workflow.png)
 
 This figure illustrates one anonymised workflow: four acquired optical signals,
-their filtered views, SQI-based best and worst 10-second windows, and one
-reference-versus-prediction comparison. Participant identifiers, dates, raw
-files, model parameters, and performance metrics are intentionally not shown.
+their filtered views with the SQI-based best and worst 10-second windows
+highlighted directly on them, and one reference-versus-prediction comparison.
+Participant identifiers, dates, raw files, model parameters, and performance
+metrics are intentionally not shown.
 
 ## Data and publication policy
 
