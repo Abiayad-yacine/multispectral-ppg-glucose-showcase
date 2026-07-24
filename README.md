@@ -1,4 +1,4 @@
-# Non-invasive glucose monitoring research showcase
+# Multi-Wavelength Photoplethysmography for Non-Invasive Glucose Monitoring
 
 This repository is a visual research showcase for a PhD project in embedded
 systems and biomedical sensing. It presents the hardware prototype, the
