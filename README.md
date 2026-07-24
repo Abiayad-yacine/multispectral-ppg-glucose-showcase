@@ -40,17 +40,17 @@ implementation details, and experimental data. See [Software overview](docs/SOFT
 
 ![Anonymised recording workflow](assets/anonymized-recording-workflow.png)
 
-This figure illustrates one anonymised workflow from acquired optical signal to
-filtered signal, window selection, and a model output. Participant identifiers,
-dates, raw values, model parameters, and performance metrics are intentionally
-not shown.
+This figure illustrates one anonymised workflow: four acquired optical signals,
+their filtered views, SQI-based best and lowest-quality windows, and one
+reference-versus-prediction comparison. Participant identifiers, dates, raw
+files, model parameters, and performance metrics are intentionally not shown.
 
 ## Data and publication policy
 
 This showcase contains no raw recordings, participant metadata, source code,
-pipeline configuration, or numerical model results. The full research code and
-experimental materials are maintained privately while associated academic work
-is under preparation.
+pipeline configuration, or aggregate numerical model results. The full research
+code and experimental materials are maintained privately while associated
+academic work is under preparation.
 
 See [Anonymisation and responsible sharing](docs/ANONYMISATION.md).
 
